@@ -9,5 +9,5 @@ pip install -r requirements.txt
 
 # Start
 ```shell
-python snap.py
+python URL_Shortener.py
 ```
